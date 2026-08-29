@@ -132,7 +132,6 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### KiCad
 - [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools)
-
 - [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 - [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
@@ -188,7 +187,6 @@ This list is for websites, services, software, tools and more: everything that y
 ## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 - [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
-
 - [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 - [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 - [KiCanvas](https://kicanvas.org/) - An open source online viewer of KiCad schematics and boards.
